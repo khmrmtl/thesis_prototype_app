@@ -2,23 +2,25 @@
 
 Capstone Project
 
-## Getting Started
 
-Automatic Clog Detection and Rerouting of Water Supply
 
-A Capstone Project Proposal
-Presented to the Faculty of the School of
-Information Technology
-University of Baguio
+## Automatic Clog Detection and Rerouting of Water Supply
 
-In Partial Fulfillment
-Of the Requirements for the Degree
-Bachelor of Science in Computer Engineering
-
-By:
-Bistoguey, Jones Mill
-Monico, Julius Caesar
-Motal, Khmer
-Tomilas, Christopher
-Wailan, Joshua
+<p align="center">
+  <b>A Capstone Project Proposal</b> <br>
+  Presented to the Faculty of the School of <br>
+  Information Technology <br>
+  University of Baguio <br>
+  <br>
+  In Partial Fulfillment <br>
+  Of the Requirements for the Degree <br>
+  Bachelor of Science in Computer Engineering <br>
+  <br>
+  By: <br>
+  Bistoguey, Jones Mill <br>
+  Monico, Julius Caesar <br>
+  Motal, Khmer <br>
+  Tomilas, Christopher <br>
+  Wailan, Joshua <br>
+</p>
 
