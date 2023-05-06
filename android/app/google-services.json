@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882080823079",
+    "firebase_url": "https://clogdetectiondatabase-default-rtdb.firebaseio.com",
+    "project_id": "clogdetectiondatabase",
+    "storage_bucket": "clogdetectiondatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882080823079:android:89e460f2fb7b5c3bb69b02",
+        "android_client_info": {
+          "package_name": "com.example.thesis_prototype_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882080823079-5s22hqops0n64aiv23i7qucon5kkmnoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7LeGinn2jiAVJsaBcKrBqDdcXK7zIas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882080823079-5s22hqops0n64aiv23i7qucon5kkmnoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
