@@ -1,16 +1,24 @@
 # thesis_prototype_app
 
-A new Flutter project.
+Capstone Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Automatic Clog Detection and Rerouting of Water Supply
 
-A few resources to get you started if this is your first Flutter project:
+A Capstone Project Proposal
+Presented to the Faculty of the School of
+Information Technology
+University of Baguio
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In Partial Fulfillment
+Of the Requirements for the Degree
+Bachelor of Science in Computer Engineering
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+By:
+Bistoguey, Jones Mill
+Monico, Julius Caesar
+Motal, Khmer
+Tomilas, Christopher
+Wailan, Joshua
+
