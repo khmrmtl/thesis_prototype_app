@@ -12,12 +12,10 @@
 #define WIFI_PASSWORD "NETWORK PASSWORD"
 
 // Insert Firebase project API Key
-// #define API_KEY "AIzaSyDiGnLUPo61bKrSmCCfUuIixvuxaevbnek" // old project
-#define API_KEY "AIzaSyDN7LeGinn2jiAVJsaBcKrBqDdcXK7zIas"
+#define API_KEY "ENTER FRIREBASE PROJECT API KEY"
 
 // Insert RTDB URLefine the RTDB URL
-// #define DATABASE_URL "https://testproject-54d36-default-rtdb.firebaseio.com/" //old project
-#define DATABASE_URL "https://clogdetectiondatabase-default-rtdb.firebaseio.com/"
+#define DATABASE_URL "ENTER DATABSE URL"
 
 // Define output pins
 #define ALTERNATE_ROUTE D0
